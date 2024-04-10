@@ -7,8 +7,8 @@
     padding: 10rem 3rem 6rem;
     margin-bottom: 11rem;
     background-image: 
-      url('../../images/white_ellipse.svg'),
-      url('../../images/white_ellipse.svg');
+      url('../images/white_ellipse.svg'),
+      url('../images/white_ellipse.svg');
     background-repeat: no-repeat;
     background-size: 34rem 34rem, 19rem 19rem;
     background-position: 
@@ -20,7 +20,7 @@
         @include pseudo;
         width: 25rem;
         height: 20rem;
-        background-image: url('../../images/leaf_1.webp');
+        background-image: url('../images/leaf_1.webp');
         background-position: center;
         background-size: contain;
         background-repeat: no-repeat;
